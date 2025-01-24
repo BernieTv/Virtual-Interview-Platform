@@ -1,6 +1,6 @@
 # ✨ Video Calling Interview Platform ✨
 
-![Demo App](/public/screenshot-for-readme.png)
+![Demo App](https://cdn.sanity.io/images/0ww2tgdo/production/891387991461ef9baa19e6d46ee2627ec95f6321-1280x720.png)
 
 ## 🌟 Highlights
 
